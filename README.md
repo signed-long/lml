@@ -11,7 +11,7 @@ Below is the abstract for the initial project.
 
 ### To run it
 
-- The model is not included in this repo, but the application expects the official `Meta-Llama-3.1-8B-Instruct` model, quantized to 4Bit with `llama-cpp` at `api/models/Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf`
+- The model is not included in this repo, but the application expects the official [Meta-Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct) model, [quantized to 4Bit](https://github.com/ggerganov/llama.cpp/blob/master/examples/quantize/README.md) with `llama-cpp` at `api/models/Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf`
 
 #### Backend api
 
