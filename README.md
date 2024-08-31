@@ -11,6 +11,8 @@ Below is the abstract for the initial project.
 
 ### To run it
 
+- The model is not included in this repo, but the application expects the official `Meta-Llama-3.1-8B-Instruct` model, quantized to 4Bit with `llama-cpp` at `api/models/Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf`
+
 #### Backend api
 
 - Install [uv](https://github.com/astral-sh/uv)
